@@ -1,0 +1,14 @@
+target/
+ test-output/
+eclipse-classes/
+logs/
+ gwt-tmp/
+ .idea/
+ .metadata/
+ *cache.html
+ *cache.xml
+ *.swp
+ *.iml
+ *.ipr
+ *.iws
+ *~
